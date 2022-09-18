@@ -53,11 +53,13 @@ publications:
     papers:
       - title: Consistency training with virtual adversarial discrete perturbation
         link: "https://arxiv.org/abs/2104.07284"
+        code: "https://github.com/clovaai/vat-d"
         authors: Jungsoo Park, Gyuwan Kim, and Jaewoo Kang
         conference: NAACL, 2022
 
       - title: Faviq, Fact verification from information-seeking questions
         link: "https://arxiv.org/abs/2107.02153"
+        code: "https://github.com/faviq/faviq"
         authors: Jungsoo Park, Sewon Min, Jaewoo Kang, Luke Zettlemoyer, and Hannaneh Hajishirzi
         conference: ACL, 2022
 
@@ -68,11 +70,13 @@ publications:
 
       - title: Learn to resolve conversational dependency, A consistency training framework for conversational question answering
         link: "https://arxiv.org/abs/2106.11575"
+        code: "https://github.com/dmis-lab/excord"
         authors: Gangwoo Kim, Hyunjae Kim, Jungsoo Park, and Jaewoo Kang
         conference: ACL, 2021
 
       - title: Adversarial subword regularization for robust neural machine translation
         link: "https://arxiv.org/abs/2004.14109"
+        code: "https://github.com/dmis-lab/AdvSR"
         authors: Jungsoo Park, Mujeen Sung, Jinhyuk Lee, and Jaewoo Kang,
         conference: EMNLP-Findings, 2020
 
