@@ -110,9 +110,8 @@ p {
   }
   .degree {
     font-size: 16px;
-    margin-top: 0;
+    font-weight: 400;
     margin-bottom: 0;
-    font-weight: 500;
   }
   .education-container {
     .item {
@@ -192,10 +191,8 @@ p {
   .degree {
     color: $text-color;
     font-size: 16px;
-    margin-top: 0;
+    font-weight: 400;
     margin-bottom: 0;
-    font-weight: 500;
-    line-height: 1.0
   }
   .time {
     position: absolute;
