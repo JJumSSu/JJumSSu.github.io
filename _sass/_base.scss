@@ -77,7 +77,7 @@ p {
 
   .avatar {
     //used for profile image
-    max-width: 185px;
+    max-width: 180px;
     margin-bottom: 15px;
     border: 0px solid #fff;
     border-radius: 100%;
@@ -109,9 +109,9 @@ p {
     margin-bottom: 15px;
   }
   .degree {
-    font-size: 16px;
-    font-weight: 400;
-    margin-bottom: 0;
+    font-size: 14px;
+    margin-top: 0;
+    margin-bottom: 5px;
   }
   .education-container {
     .item {
@@ -191,8 +191,9 @@ p {
   .degree {
     color: $text-color;
     font-size: 16px;
-    font-weight: 400;
+    margin-top: 0;
     margin-bottom: 0;
+    font-weight: 500;
   }
   .time {
     position: absolute;
@@ -226,7 +227,7 @@ p {
     font-size: 16px;
     font-weight: 400;
     color: $text-color;
-    margin-bottom: 0;
+    margin-bottom: 1px;
   }
   .publication-authors {
     font-style: italic;
@@ -249,7 +250,7 @@ p {
     overflow: hidden;
   }
   .level-title {
-    font-size: 12px;
+    font-size: 14px;
     margin-top: 0;
     margin-bottom: 12px;
   }
