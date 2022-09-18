@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Jungsoo Park
-    tagline: Research Scientist at Naver Clova
+    tagline: Research Scientist at Naver
     avatar:  profile.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -32,7 +32,7 @@ career-profile:
     summary: |
       I am a reserach scientist at Naver Clova. My research area is based on natural language processing and deep learning. 
       Specifically, I'm interested in modeling generalizable language models given limited labeled data.
-      Towards this goal, my research of interest spans across semi-supervised learning with augmentation and distillation from external knowledge.          
+      Towards this goal, my research of interest spans across semi-supervised learning with augmentation and distillation from external knowledge.
       Prior to Naver, I received B.S. and M.S. in Statistics and Computer Science & Engineering from Korea University.     
 
 
@@ -90,44 +90,31 @@ experiences:
         time: 2020 - 2021
         company: Naver Clova, Seoul
         details: |
-            - Researched optimal augmentation methods for developing NLU models
+            - Research optimal augmentation methods for developing NLU models
       - role: Data Scientist Intern
         time: 2018
         company: SK Telecom
         details: |
-            - Analyzed data for a new business model
+            - Analyze data for a new business model
             - SK Telecom is a South Korean wireless telecommunications operator and is part of the SK Group, one of the country's largest chaebols
 
 projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+    title: Recognition
+    info:
+      - role: Full Scholarship for all semesters attended at graduate school of Korea University
+        time: Mar. 2019–Jun. 2021
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - role: Great Honor in Graduation at Korea University
+        time: Feb. 2019
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - role: Full Scholarship for all semesters attended at Korea University
+        time: Mar. 2013–Feb. 2019
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - role: Gold Prize in Research Project Competition at Korea University
+        time: Mar. 2018
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-
-
-
+      - role: Anam Scholarship (admission with highest distinction) at Korea University
+        time: Mar. 2013
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
