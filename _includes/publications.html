@@ -11,7 +11,7 @@
   </h2>
 
   {% for publication in publications.papers %}
-  <div class="item">
+  <div class="meta">
     {% if publication.link %}
       <li><a href="{{ publication.link }}">{{ publication.title }}</a></li>
     {% else %}
