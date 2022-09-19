@@ -90,11 +90,11 @@ experiences:
         details: |
             - Develop NLU model for general domain & application to shopping FAQ 
             - Naver Clova is an AI company that establishes a full AI vertical tech line-up from core AI research to AI applications and operation
-    - role: Research Intern
-        time: 2021
-        company: University of Washington
-        details: |
-            - Construct a large-scale fact verification dataset with realistic real-world claims from information-seeking questions
+      - role: Research Intern
+          time: 2021
+          company: University of Washington, Seattle
+          details: |
+              - Construct a large-scale fact verification dataset with realistic real-world claims from information-seeking questions
       - role: Research Intern
         time: 2020 - 2021
         company: Naver Clova, Seoul
