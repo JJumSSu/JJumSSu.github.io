@@ -17,15 +17,6 @@ sidebar:
     website: jjumssu.github.io
     github: https://github.com/JJumSSu
 
-    languages:
-      title: Languages
-      info:
-        - idiom: Korean
-          level: Native
-
-        - idiom: English
-          level: Professional
-
 
 career-profile:
     title: About
@@ -88,8 +79,7 @@ experiences:
         time: 2021 - Present
         company: Naver Clova, Seoul
         details: |
-            - Develop NLU model for general domain & application to shopping FAQ 
-            - Naver Clova is an AI company that establishes a full AI vertical tech line-up from core AI research to AI applications and operation
+            - Develop NLU model for general domain & application to shopping FAQ
       - role: Research Intern
         time: 2021
         company: University of Washington, Seattle
@@ -105,7 +95,6 @@ experiences:
         company: SK Telecom, Seoul
         details: |
             - Analyze data for a new business model
-            - SK Telecom is a wireless telecommunications operator and is part of the SK Group
 
 projects:
     title: Recognition
@@ -121,6 +110,18 @@ projects:
 
       - role: Anam Scholarship (admission with highest distinction) at Korea University
         company: Mar. 2013
+
+services:
+    title: Services
+    info:
+      - role: ACL
+        company: 2021
+
+      - role: EMNLP
+        company: 2021, 2022
+
+      - role: ACL ARR
+        company: 2021-
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
