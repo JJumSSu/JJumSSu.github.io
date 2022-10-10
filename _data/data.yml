@@ -30,12 +30,12 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: M.S. in Computer Science & Engineering
-        university: Korea University
+      - degree: Korea University
+        university: M.S. in Computer Science & Engineering
         time: 2019 - 2021
 
-      - degree: B.S. in Statistics and Computer Science & Engineering
-        university: Korea University
+      - degree: Korea University
+        university: B.S. in Statistics and Computer Science & Engineering
         time: 2013 - 2019
 
 
@@ -75,21 +75,21 @@ publications:
 experiences:
     title: Experiences
     info:
-      - role: Research Scientist
+      - role: Naver Clova, Seoul
         time: 2021 - Present
-        company: Naver Clova, Seoul
+        company: Research Scientist
 
-      - role: Research Intern
+      - role: University of Washington, Seattle
         time: 2021
-        company: University of Washington, Seattle
+        company: Research Intern
 
-      - role: Research Intern
-        time: 2020 - 2021
-        company: Naver Clova, Seoul
+      - role: Naver Clova, Seoul
+        time: 2020
+        company: Research Intern
 
-      - role: Data Scientist Intern
+      - role:  SK Telecom, Seoul
         time: 2018
-        company: SK Telecom, Seoul
+        company: Data Scientist Intern
 
 
 projects:
@@ -106,6 +106,7 @@ projects:
 
       - role: Anam Scholarship (admission with highest distinction) at Korea University
         company: Mar. 2013
+
 
 services:
     title: Reviewer Services
