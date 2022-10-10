@@ -78,23 +78,19 @@ experiences:
       - role: Research Scientist
         time: 2021 - Present
         company: Naver Clova, Seoul
-        details: |
-            - Develop NLU model for general domain & application to shopping FAQ
+        
       - role: Research Intern
         time: 2021
         company: University of Washington, Seattle
-        details: |
-            - Construct a large-scale fact verification dataset with realistic real-world claims from information-seeking questions
+
       - role: Research Intern
         time: 2020 - 2021
         company: Naver Clova, Seoul
-        details: |
-            - Research optimal augmentation methods for developing NLU models
+
       - role: Data Scientist Intern
         time: 2018
         company: SK Telecom, Seoul
-        details: |
-            - Analyze data for a new business model
+
 
 projects:
     title: Recognition
