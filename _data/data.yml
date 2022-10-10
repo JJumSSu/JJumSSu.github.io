@@ -109,16 +109,16 @@ projects:
 
 
 services:
-    title: Reviewer Services
+    title: Services
     info:
-      - role: ACL
-        company: 2021
+      - role: Reviewer in ACL
+        time: 2021
 
-      - role: EMNLP
-        company: 2021, 2022
+      - role: Reviewer in EMNLP
+        time: 2021, 2022
 
-      - role: ACL ARR
-        company: 2021-
+      - role: Reviewer in ACL ARR
+        time: 2021-
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
