@@ -78,7 +78,7 @@ experiences:
       - role: Research Scientist
         time: 2021 - Present
         company: Naver Clova, Seoul
-        
+
       - role: Research Intern
         time: 2021
         company: University of Washington, Seattle
@@ -108,7 +108,7 @@ projects:
         company: Mar. 2013
 
 services:
-    title: Services
+    title: Reviewer Services
     info:
       - role: ACL
         company: 2021
