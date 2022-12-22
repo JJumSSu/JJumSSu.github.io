@@ -14,34 +14,39 @@ sidebar:
     # Sidebar links
     email: jungsoopark.1993@gmail.com
     timezone: UTC+9
-    website: jjumssu.github.io
     github: https://github.com/JJumSSu
 
 
 career-profile:
     title: About
     summary: |
-      I am a reserach scientist at Naver Clova. My research area is based on natural language processing and deep learning. 
-      Specifically, I'm interested in modeling generalizable language models given limited labeled data.
-      Towards this goal, my research of interest spans across semi-supervised learning with augmentation and distillation from external knowledge.
-      Prior to Naver, I received B.S. and M.S. in Statistics and Computer Science & Engineering from Korea University.     
+      I am a reserach scientist at Naver. My research area is based on natural language processing and deep learning. 
+      Specifically, I'm interested in modeling generalizable language models under limited supervision and bounded parameter size.
+      Towards this goal, my research of interest spans transferring knowledge from external resources and developing algorithms for efficient training.
+      Prior to Naver, I received B.Econ. in Statistics, B.S, and M.E. in Computer Science & Engineering from Korea University.
+     
 
 
 education:
     title: Education
     info:
       - degree: Korea University
-        university: M.S. in Computer Science & Engineering
+        university: M.E. in Computer Science & Engineering
         time: 2019 - 2021
 
       - degree: Korea University
-        university: B.S. in Statistics and Computer Science & Engineering
+        university: B.Econ. in Statistics, B.S. in Computer Science & Engineering
         time: 2013 - 2019
 
 
 publications:
     title: Publications
     papers:
+      - title: TeSS, Zero-Shot Classification via Textual Similarity Comparison with Prompting using Sentence Encoder
+        link: "https://arxiv.org/abs/2212.10391"
+        authors: Jimin Hong, Jungsoo Park, Daeyoung Kim, Seongjae Choi, Bokyung Son, Jaewook Kang
+        conference: arXiv, 2022
+
       - title: Consistency training with virtual adversarial discrete perturbation
         link: "https://arxiv.org/abs/2104.07284"
         code: "https://github.com/clovaai/vat-d"
@@ -75,34 +80,31 @@ publications:
 experiences:
     title: Experiences
     info:
-      - role: Naver Clova, Seoul
+      - role: Naver
         time: 2021 - Present
         company: Research Scientist
 
-      - role: University of Washington, Seattle
+      - role: University of Washington
         time: 2021
-        company: Research Intern
+        company: Research Intern (remote)
 
-      - role: Naver Clova, Seoul
+      - role: Naver Clova
         time: 2020
         company: Research Intern
 
-      - role:  SK Telecom, Seoul
+      - role:  SK Telecom
         time: 2018
-        company: Data Analyst Intern
+        company: Research Intern
 
 
 projects:
     title: Recognition
     info:
-      - role: Full Scholarship for all semesters at graduate school of Korea University
-        company: Mar. 2019–Jun. 2021
+      - role: Full Scholarship for all semesters at (under) graduate school of Korea University
+        company: Mar. 2013–Jun. 2021
 
       - role: Great Honor in Graduation at Korea University
         company: Feb. 2019
-
-      - role: Full Scholarship for all semesters at Korea University
-        company: Mar. 2013–Feb. 2019
 
       - role: Anam Scholarship (admission with highest distinction) at Korea University
         company: Mar. 2013
