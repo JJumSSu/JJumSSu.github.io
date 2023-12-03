@@ -20,9 +20,9 @@ sidebar:
 career-profile:
     title: About
     summary: |
-      I am a reserach scientist at Naver. My research area is based on natural language processing and deep learning. 
-      Specifically, I'm interested in modeling generalizable language models under limited supervision and bounded parameter size.
-      Towards this goal, my research of interest spans transferring knowledge from external resources and developing algorithms for efficient training.
+      I am a research scientist at Naver. My research area is based on natural language processing and deep learning. 
+      Specifically, my research pursuits aim to create a comprehensive multimodal system capable of perceiving, comprehending, and reasoning based on factual information while seamlessly staying up-to-date.
+      Towards this goal, my research of interest spans across aligning language & vision modality and retrieval augmentation.
       Prior to Naver, I received B.Econ. in Statistics, B.S, and M.E. in Computer Science & Engineering from Korea University.
      
 
@@ -42,7 +42,7 @@ education:
 publications:
     title: Publications
     papers:
-      - title: TeSS, Zero-Shot Classification via Textual Similarity Comparison with Prompting using Sentence Encoder
+      - title: Empowering Sentence Encoders with Prompting and Label Retrieval for Zero-shot Text Classification
         link: "https://arxiv.org/abs/2212.10391"
         authors: Jimin Hong, Jungsoo Park, Daeyoung Kim, Seongjae Choi, Bokyung Son, Jaewook Kang
         conference: arXiv, 2022
@@ -92,10 +92,6 @@ experiences:
         time: 2020
         company: Research Intern
 
-      - role:  SK Telecom
-        time: 2018
-        company: Research Intern
-
 
 projects:
     title: Recognition
@@ -117,7 +113,7 @@ services:
         time: 2021
 
       - role: Reviewer in EMNLP
-        time: 2021, 2022
+        time: 2021, 2022, 2023
 
       - role: Reviewer in ACL ARR
         time: 2021-
