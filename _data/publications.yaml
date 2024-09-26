@@ -1,0 +1,54 @@
+papers:   
+  - title: "Optimizing Test-Time Query Representations for Dense Retrieval"  
+    authors: "Mujeen Sung, <b>Jungsoo Park</b>, Jaewoo Kang, Danqi Chen, Jinhyuk Lee"  
+    venue: "Empirical Methods in Natural Language Processing-Findings"
+    paper_pdf: "https://aclanthology.org/2023.findings-acl.354.pdf"
+    bibtex: "/assets/publications/2023_optimizing/bibtex.txt"
+    image: "/assets/publications/2023_optimizing/figure.png"
+    year: 2023  
+    selected: y
+  
+  - title: "Empowering Sentence Encoders with Prompting and Label Retrieval for Zero-shot Text Classification"  
+    authors: "Jimin Hong*, <b>Jungsoo Park*</b>, Daeyoung Kim*, Seongjae Choi, Bokyung Son, Jaewook Kang"  
+    venue: "arXiv preprint"  
+    paper_pdf: "https://arxiv.org/pdf/2212.10391"
+    bibtex: "/assets/publications/2023_empower/bibtex.txt"
+    image: "/assets/publications/2023_empower/tess.png"
+    year: 2023  
+    selected: y
+  
+  - title: "FaVIQ: FAct Verification from Information-seeking Questions"  
+    authors: "<b>Jungsoo Park*</b>, Sewon Min*, Jaewoo Kang, Luke Zettlemoyer, Hannaneh Hajishirzi"  
+    venue: "Association for Computational Linguistics"  
+    paper_pdf: "https://aclanthology.org/2022.acl-long.354.pdf"
+    bibtex: "/assets/publications/2022_faviq/bibtex.txt"
+    image: "/assets/publications/2022_faviq/faviq.png"
+    year: 2022   
+    selected: y
+
+  - title: "Consistency Training with Virtual Adversarial Discrete Perturbation"  
+    authors: "<b>Jungsoo Park*</b>, Gyuwan Kim*, Jaewoo Kang"  
+    venue: "North American Chapter of the ACL" 
+    paper_pdf: "https://aclanthology.org/2022.naacl-main.414.pdf" 
+    bibtex: "/assets/publications/2022_consistency/bibtex.txt"
+    image: "/assets/publications/2022_consistency/consistency.png"
+    year: 2022
+    selected: y
+
+  - title: "Learn to Resolve Conversational Dependency: A Consistency Training Framework for Conversational Question Answering"  
+    authors: "Gangwoo Kim, Hyunjae Kim, <b>Jungsoo Park</b>, Jaewoo Kang"  
+    venue: "Association for Computational Linguistics"
+    paper_pdf: "https://aclanthology.org/2021.acl-long.478.pdf"
+    bibtex: "/assets/publications/2021_learn_to_resolve/bibtex.txt"
+    image: "/assets/publications/2021_learn_to_resolve/excord.png"
+    year: 2021 
+    selected: y
+  
+  - title: "Adversarial Subword Regularization for Robust Neural Machine Translation"  
+    authors: "<b>Jungsoo Park</b>, Mujeen Sung, Jinhyuk Lee, Jaewoo Kang"  
+    venue: "Empirical Methods in Natural Language Processing-Findings"  
+    paper_pdf: "https://aclanthology.org/2020.findings-emnlp.175.pdf"
+    bibtex: "/assets/publications/2020_advsr/bibtex.txt"
+    image: "/assets/publications/2020_advsr/advsr.png"
+    year: 2020 
+    selected: y 

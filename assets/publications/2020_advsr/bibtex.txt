@@ -1,0 +1,7 @@
+@inproceedings{park2020adversarial,
+  title={Adversarial Subword Regularization for Robust Neural Machine Translation},
+  author={Park, Jungsoo and Sung, Mujeen and Lee, Jinhyuk and Kang, Jaewoo},
+  booktitle={Findings of the Association for Computational Linguistics: EMNLP 2020},
+  pages={1945--1953},
+  year={2020}
+}

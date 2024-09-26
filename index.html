@@ -1,0 +1,233 @@
+---
+layout: default
+---
+<!-- ========== About ========== -->
+<div class="docs-section" id="about">
+  <h4>About</h4>
+  <p>
+    <p>
+      Hello! I am a Ph.D. student in the <a href="https://www.ic.gatech.edu/">School of Interactive Computing</a> at <a href="https://www.gatech.edu">Georgia Tech</a> advised by <a href="http://aritter.github.io">Alan Ritter</a>.
+      I formerly worked as an applied scientist at <a href="https://clova.ai/en">Naver Clova</a>, where I played a pivotal role in developing a foundational vision-language model: <a href="https://clova.ai/en/tech-blog/en-introducing-hyperclova-x-vision">Hyperclova-X-Vision</a>.
+      Pror to Naver, I received B.E. in Statistics, B.S, and M.E. in Computer Science & Engineering from <a href="https://www.korea.edu/mbshome/mbs/en/index.do">Korea University</a>.
+    </p>
+    <p>
+      My research pursuits aim to create a comprehensive multimodal system capable of perceiving, comprehending, and reasoning. 
+      To achieve this goal, my research interests include aligning language and vision modalities and enhancing model comprehension of complex structural visual information.
+      Building on this development, I am interested in applying such a multimodal system to expedite scientific discoveries.
+    </p>
+  </p>
+</div>
+
+<!-- ========== News ========== -->
+<div class="docs-section" id="news">
+  <h4>News</h4>
+    <ul>
+      <li>
+        <b style="color: #46923c; font-weight: normal;">[Aug. 2024]</b>&nbsp&nbsp
+        Embarked on my Ph.D. journey at Georgia Tech.
+      </li>
+      <li>
+        <b style="color: #46923c; font-weight: normal;">[Aug. 2024]</b>&nbsp&nbsp
+        The primary project I contributed to at Naver, <a href="https://clova.ai/en/tech-blog/en-introducing-hyperclova-x-vision">Hyperclova-X-Vision</a> has been publicly released.
+      </li>
+    </ul>
+</div>
+
+
+<!-- ========== Education ========== -->
+<div class="docs-section" id="education">
+  <h4>Education</h4>
+        <div class="paper">
+          <p class="title">
+            <b>Georgia Institute of Technology <b style="float:right;">Atlanta, GA, USA</b></b>
+          </p>
+          <p>Ph.D. in Computer Science <b style="float:right;">Aug. 2024 - Present</b></p>
+          <p>Advisor: Alan Ritter</p>
+        </div>
+
+        <div class="paper">
+          <p class="title">
+            <b>Korea University <b style="float:right;">Seoul, Korea</b></b>
+          </p>
+          <p>M.E. in Computer Science & Engineering <b style="float:right;">Mar. 2019 - Aug. 2021</b></p>
+          <p>Advisor: Jaewoo Kang</p>
+        </div>
+
+        <div class="paper">
+          <p class="title">
+            <b>Korea University <b style="float:right;">Seoul, Korea</b></b>
+          </p>
+          <p>B.E. in Statistics, B.S. in Computer Science & Engineering <b style="float:right;">Mar. 2013 - Feb. 2019</b></p>
+          <p>Magna Cum Laude</p>
+        </div>
+</div>
+
+<!-- ========== Experience ========== -->
+<div class="docs-section" id="experience">
+  <h4>Research Experience</h4>
+        <div class="paper">
+          <p class="title">
+            <b>Georgia Institute of Technology <b style="float:right;">Atlanta, GA, USA</b></b>
+          </p>
+          <p>Graduate Research Assistant (Ph.D.) <b style="float:right;">Aug. 2024 - Present</b></p>
+          <p>Advisor: Alan Ritter</p>
+        </div>
+
+        <div class="paper">
+          <p class="title">
+            <b>Naver Clova <b style="float:right;">Seongnam, Republic of Korea</b></b>
+          </p>
+          <p>Applied Scientist <b style="float:right;">Jul. 2021 - Aug. 2024</b></p>
+          <p>Research Intern <b style="float:right;">July. 2020 - Dec. 2020</b></p>
+          <p>Hyperscale AI </p>
+        </div>
+
+        <div class="paper">
+          <p class="title">
+            <b>University of Washington <b style="float:right;">Seattle, WA, USA</b></b>
+          </p>
+          <p>Visiting Scholar (remote) <b style="float:right;">Jan. 2021 - Jul. 2021</b></p>
+          <p>Mentor: Sewon Min Advisor: Hannaneh Hajishirzi, Luke Zettlemoyer </p>
+        </div>
+
+        <div class="paper">
+          <p class="title">
+            <b>Korea University <b style="float:right;">Seoul, Republic of Korea</b></b>
+          </p>
+          <p>Graduate Research Assistant (M.E.) <b style="float:right;">Mar. 2019 - Aug. 2021</b></p>
+          <p>Advisor: Jaewoo Kang </p>
+        </div>
+</div>
+
+<!-- ========== PUBLICATIONS ========== -->
+<div class="docs-section" id="publications">
+  <h4>Publications</h4>
+
+  <!-- <p>Most recent publications on <a href="{{ site.data.main_info.google_scholar }}" target="_blank">Google Scholar</a>.<br/> -->
+  <sup>*</sup> indicates equal contribution.
+  </p>
+
+  <!-- <ul class="tab-nav">
+    <li><div class="button active" data-ref="#papers-selected">Selected</div></li>
+    <li><div class="button" data-ref="#papers-all">All</div></li>
+  </ul> -->
+
+  <div class="tab-content">
+    <div class="tab-pane active" id="papers-selected">
+      {% assign selected_papers = site.data.publications.papers | where: "selected", "y" %}
+      {% for paper in selected_papers %}
+        <div class="paper">
+          <div class="row">
+            <!-- <div class="four columns">
+              <div class="figure">
+                <img src="{{ paper.image }}" width="100%">
+              </div>
+            </div> -->
+            <div class="twelve columns">
+              <p class="title"><b>{{ paper.title }}</b></p>
+              <p>{{ paper.authors }}</p>
+              <p><i>{{ paper.venue }}</i></p>
+              <div class="paper-buttons">
+                {% if paper.paper_pdf %}
+                  <a class="button" href="{{ paper.paper_pdf }}" target="_blank">Paper</a>
+                {% endif %}
+
+                {% if paper.slides %}
+                  <a class="button" href="{{ paper.slides | prepend: site.baseurl }}" target="_blank">Slides</a>
+                {% endif %}
+
+                {% if paper.poster %}
+                  <a class="button" href="{{ paper.poster | prepend: site.baseurl }}" target="_blank">Poster</a>
+                {% endif %}
+
+                {% if paper.video %}
+                  <a class="button" href="{{ paper.video }}" target="_blank">Video</a>
+                {% endif %}
+
+                {% if paper.code %}
+                  <a class="button" href="{{ paper.code }}" target="_blank">Code</a>
+                {% endif %}
+
+                {% if paper.blog %}
+                <a class="button" href="{{ paper.blog }}" target="_blank">Blog</a>
+                {% endif %}
+
+                {% if paper.bibtex %}
+                  <a class="button" href="{{ paper.bibtex }}" target="_blank">BibTeX</a>
+                {% endif %}
+              </div>
+            </div>
+          </div>
+        </div>
+      {% endfor %}
+    </div>
+
+    <!-- <div class="tab-pane" id="papers-all">
+      {% for paper in site.data.publications.papers %}
+        <div class="paper">
+          <div class="row">
+            <div class="four columns">
+              <div class="figure">
+                <img src="{{ paper.image }}" width="100%">
+              </div>
+            </div>
+            <div class="eight columns">
+              <p class="title"><b>{{ paper.title }}</b></p>
+              <p>{{ paper.authors }}</p>
+              <p><i>{{ paper.venue }}</i></p>
+              <div class="paper-buttons">
+                {% if paper.paper_pdf %}
+                  <a class="button" href="{{ paper.paper_pdf | prepend: site.baseurl }}" target="_blank">Paper</a>
+                {% endif %}
+
+                {% if paper.slides %}
+                  <a class="button" href="{{ paper.slides | prepend: site.baseurl }}" target="_blank">Slides</a>
+                {% endif %}
+
+                {% if paper.poster %}
+                  <a class="button" href="{{ paper.poster | prepend: site.baseurl }}" target="_blank">Poster</a>
+                {% endif %}
+
+                {% if paper.video %}
+                  <a class="button" href="{{ paper.video }}" target="_blank">Video</a>
+                {% endif %}
+
+                {% if paper.code %}
+                  <a class="button" href="{{ paper.code }}" target="_blank">Code</a>
+                {% endif %}
+              </div>
+            </div>
+          </div>
+        </div>
+    {% endfor %}
+    </div> -->
+
+</div>
+
+<!-- ========== RESUME ========== -->
+<div class="docs-section" id="resume">
+  <h4>Vitæ</h4>
+
+  <p>Full CV in <a href={{ "/assets/cv/CV__Jungsoo_Park_.pdf" | prepend: site.baseurl }} target="_blank">PDF</a>.</p>
+
+  <!-- The Timeline -->
+  <ul class="timeline">
+    {% for exp in site.data.experience.experiences %}
+    <li>
+      {% if exp.category == "work" %}
+      <div class="direction-l">
+      {% else %}
+      <div class="direction-r">
+      {% endif %}
+        <div class="flag-wrapper">
+          <span class="flag">{{ exp.place }}</span>
+          <span class="time-wrapper"><span class="time">{{ exp.time }}</span></span>
+        </div>
+        <div class="desc"><b>{{ exp.title }}</b> <br/> {{ exp.subtitle }}</div>
+      </div>
+    </li>
+    {% endfor %}
+  </ul>
+</div>
+
+</div>

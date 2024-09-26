@@ -1,0 +1,6 @@
+@article{hong2022tess,
+  title={Tess: Zero-shot classification via textual similarity comparison with prompting using sentence encoder},
+  author={Hong, Jimin and Park, Jungsoo and Kim, Daeyoung and Choi, Seongjae and Son, Bokyung and Kang, Jaewook},
+  journal={arXiv preprint arXiv:2212.10391},
+  year={2022}
+}

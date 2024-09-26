@@ -1,0 +1,7 @@
+@inproceedings{park2022faviq,
+  title={FaVIQ: FAct Verification from Information-seeking Questions},
+  author={Park, Jungsoo and Min, Sewon and Kang, Jaewoo and Zettlemoyer, Luke and Hajishirzi, Hannaneh},
+  booktitle={Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)},
+  pages={5154--5166},
+  year={2022}
+}
