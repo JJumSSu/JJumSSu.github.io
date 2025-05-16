@@ -1,4 +1,14 @@
 papers:   
+
+  - title: "Can LLMs Help Uncover Insights about LLMs? A Large-Scale, Evolving Literature Analysis of Frontier LLMs"  
+    authors: "<b>Jungsoo Park</b>, Junmo Kang, Gabriel Stanovsky, Alan Ritter"  
+    venue: "Association for Computational Linguistics"
+    paper_pdf: "https://arxiv.org/pdf/2502.18791v2"
+    bibtex: "/assets/publications/2025_can/bibtex.txt"
+    image: "/assets/publications/2023_optimizing/figure.png"
+    year: 2025  
+    selected: y
+
   - title: "Optimizing Test-Time Query Representations for Dense Retrieval"  
     authors: "Mujeen Sung, <b>Jungsoo Park</b>, Jaewoo Kang, Danqi Chen, Jinhyuk Lee"  
     venue: "Empirical Methods in Natural Language Processing-Findings"
