@@ -1,0 +1,6 @@
+@article{park2025look,
+  title={Look Before you Leap: Estimating LLM Benchmark Scores from Descriptions},
+  author={Park, Jungsoo and Mendes, Ethan and Stanovsky, Gabriel and Ritter, Alan},
+  journal={arXiv preprint arXiv:2509.20645},
+  year={2025}
+}

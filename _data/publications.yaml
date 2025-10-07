@@ -1,5 +1,14 @@
 papers:   
 
+  - title: "Look Before you Leap: Estimating LLM Benchmark Scores from Descriptions"  
+    authors: "<b>Jungsoo Park</b>, Ethan Mendes, Gabriel Stanovsky, Alan Ritter"  
+    venue: "arXiv preprint"
+    paper_pdf: "https://arxiv.org/pdf/2509.20645"
+    bibtex: "/assets/publications/2025_look/bibtex.txt"
+    image: "/assets/publications/2023_optimizing/figure.png"
+    year: 2025  
+    selected: y
+
   - title: "Can LLMs Help Uncover Insights about LLMs? A Large-Scale, Evolving Literature Analysis of Frontier LLMs"  
     authors: "<b>Jungsoo Park</b>, Junmo Kang, Gabriel Stanovsky, Alan Ritter"  
     venue: "Association for Computational Linguistics"
