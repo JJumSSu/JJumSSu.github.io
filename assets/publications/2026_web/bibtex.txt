@@ -1,0 +1,7 @@
+@article{chae2026safe,
+  title = {Safe and Scalable Web Agent Learning via Recreated Websites},
+  author = {Chae, Hyungjoo and Park, Jungsoo and Ritter, Alan},
+  journal = {arXiv preprint arXiv:2603.10505},
+  year = {2026},
+  url = {https://arxiv.org/abs/2603.10505}
+}

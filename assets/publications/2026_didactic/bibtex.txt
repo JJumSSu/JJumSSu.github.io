@@ -1,0 +1,7 @@
+@article{mendes2026didactic,
+  title = {Didactic to Constructive: Turning Expert Solutions into Learnable Reasoning},
+  author = {Mendes, Ethan and Park, Jungsoo and Ritter, Alan},
+  journal = {arXiv preprint arXiv:2602.02405},
+  year = {2026},
+  url = {https://arxiv.org/abs/2602.02405}
+}

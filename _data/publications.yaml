@@ -1,10 +1,28 @@
 papers:   
 
-  - title: "Look Before you Leap: Estimating LLM Benchmark Scores from Descriptions"  
+  - title: "Safe and Scalable Web Agent Learning via Recreated Websites"  
+    authors: "Hyungjoo Chae, <b>Jungsoo Park</b>, Alan Ritter"  
+    venue: "arXiv preprint"
+    paper_pdf: "https://arxiv.org/pdf/2603.10505"
+    bibtex: "/assets/publications/2026_web/bibtex.txt"
+    image: "/assets/publications/2023_optimizing/figure.png"
+    year: 2026
+    selected: y
+
+  - title: "Didactic to Constructive: Turning Expert Solutions into Learnable Reasoning"  
+    authors: "Ethan Mendes, <b>Jungsoo Park</b>, Alan Ritter"  
+    venue: "arXiv preprint"
+    paper_pdf: "https://arxiv.org/pdf/2602.02405"
+    bibtex: "/assets/publications/2026_didactic/bibtex.txt"
+    image: "/assets/publications/2023_optimizing/figure.png"
+    year: 2026  
+    selected: y
+
+  - title: "Anticipatory Evaluation of Language Models"  
     authors: "<b>Jungsoo Park</b>, Ethan Mendes, Gabriel Stanovsky, Alan Ritter"  
     venue: "arXiv preprint"
     paper_pdf: "https://arxiv.org/pdf/2509.20645"
-    bibtex: "/assets/publications/2025_look/bibtex.txt"
+    bibtex: "/assets/publications/2025_anticipatory/bibtex.txt"
     image: "/assets/publications/2023_optimizing/figure.png"
     year: 2025  
     selected: y
